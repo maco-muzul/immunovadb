@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"29028ce9f7ed47edbdcfec68ef218ed7","collectionName":"recordatorios","type":"collection"}
